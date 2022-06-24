@@ -156,7 +156,7 @@ if __name__ == '__main__':
 
     ccol1, ccol2, ccol3 = st.columns([0.3, 0.5, 0.2])
     with ccol1:
-        fontsize = st.selectbox('Font:', [8, 10, 12, 14, 16, 18, 20], index=3)
+        fontsize = st.selectbox('Font:', [8, 10, 12, 14, 16, 18, 20], index=1)
     with ccol2:
         plot_layout = st.radio("Plot:", ("Horizontal", "Stacked"))
 
