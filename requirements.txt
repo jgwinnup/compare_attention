@@ -1,0 +1,7 @@
+numpy
+pandas
+sacrebleu
+matplotlib
+streamlit
+streamlit-aggrid
+
